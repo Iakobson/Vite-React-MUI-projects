@@ -25,6 +25,14 @@ Samples of Vite React MUI projects
 
 * [landing-page-template-reactjs](https://github.com/alessandradocouto/landing-page-template-reactjs)
   + _Landing Page construída com React JS & MUI 5_
+  + https://hbsales.onrender.com/
+* [React-Saas-Landing-Page](https://github.com/ipsum13/React-Saas-Landing-Page)
+  + _Free template designed to showcase open source projects, SaaS products, online services, and more._
+  + https://react-saas-landing-page.web.app/
+
+
+
+
 
 
 
