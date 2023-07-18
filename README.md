@@ -4,8 +4,9 @@ Samples of Vite React MUI projects
 
 ## GitHub eCommerce
 
-* [1inch-landing-page](https://github.com/tayadeaniket/1inch-landing-page)
+* [1inch-landing-page](https://github.com/tayadeaniket/1inch-landing-page) 🥑 🥕 🌽 🥦 🍆
   + _This is a Landing Page project using React.js + Vite + Material UI._
+  + _Dark Theme_ 
 * [eCommerce-Project-Lumos.Lane](https://github.com/Medha-Nr/eCommerce-Project-Lumos.Lane)
   + _Fashion eCommerce website Lumos.Lane built using React.js, Styled Components & Material UI_
 * [DermStore_Clone](https://github.com/ayush-kr05/DermStore_Clone)
