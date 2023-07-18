@@ -56,22 +56,27 @@ Samples of Vite React MUI projects
 * [GSEI Esports Landing Page](https://github.com/mateojacques/react-landing-esports) 🥑 🥕 🌽 🥦 🍆
   + _fake eSports team made with React and Material UI._
   + https://gsei-esports.netlify.app/
-  + _Dark Theme_
-* [real-estate-landing-page](https://github.com/Quekaey/real-estate-landing-page)
+  + _Dark Theme & basket_
+* [real-estate-landing-page](https://github.com/Quekaey/real-estate-landing-page) 🥑 🥕 🌽
   + _https://github.com/Quekaey/real-estate-landing-page_
   + https://rs-landing-page.vercel.app/
-* [React-Landingpage](https://github.com/Mona95/React-Landingpage)
+  + _Light Theme_
+* [React-Landingpage](https://github.com/Mona95/React-Landingpage) 🥑
   + _Sample Responsive Landing Page with React_
   + https://jolly-mccarthy-9168bf.netlify.app/
-* [gardenegarden](https://github.com/felipebetts/gardenegarden)
+  + _Light Theme_
+* [gardenegarden](https://github.com/felipebetts/gardenegarden) 🥑 🥕
   + _Landing page example for an ebook + infoproduct_
   + https://gardenegarden-felipebetts.vercel.app/
-* [canvas_IT](https://github.com/faizulislamfair/canvas_IT)
+  + _Light Theme_
+* [canvas_IT](https://github.com/faizulislamfair/canvas_IT) 🥑 🥕 🌽 🥦
   + _This is a landing page styled using Material-UI in React.js!_
   + https://canvas-it.netlify.app/
-* [bookmark](https://github.com/papayankey/bookmark)
+  + _Light Theme_
+* [bookmark](https://github.com/papayankey/bookmark) 🥑 🥕
   + _Design created by frontend mentor._
   + https://bookmark-landing-page-iambenbright.vercel.app/
+  + _Light Theme_
 
 
 
