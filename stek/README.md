@@ -33,10 +33,37 @@
 ```
 
 
-
+## ngmcompany
 
 ```javascript
-// t
+{
+  "name": "nextjs",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.2.4",
+    "@mui/material": "latest",
+    "clsx": "latest",
+    "framer-motion": "^5.5.5",
+    "next": "latest",
+    "nodemailer": "^6.7.3",
+    "prop-types": "latest",
+    "react": "^17.0.2",
+    "react-dom": "latest",
+    "react-tsparticles": "^1.37.5",
+    "typewriter-effect": "^2.18.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  }
+}
 ```
 
 
