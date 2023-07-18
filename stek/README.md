@@ -49,10 +49,10 @@
     "@mui/material": "latest",
     "clsx": "latest",
     "framer-motion": "^5.5.5",
-    "next": "latest",
+    "next": "^13.4.10",
     "nodemailer": "^6.7.3",
     "prop-types": "latest",
-    "react": "^17.0.2",
+    "react": "^18.2.0",
     "react-dom": "latest",
     "react-tsparticles": "^1.37.5",
     "typewriter-effect": "^2.18.2"
